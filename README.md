@@ -36,8 +36,7 @@ Animations, local storage, and a streak counter are included for a motivating an
 
 ## Demo Video
 
-[Demo Video Link Here](#)  
-https://github.com/user-attachments/assets/6887289d-3678-45c1-b8a4-5846b57b984d
+https://github.com/user-attachments/assets/402d527b-7414-43e8-b86b-088aac65273b
 
 ---
 
